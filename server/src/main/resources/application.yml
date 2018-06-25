@@ -1,0 +1,12 @@
+server:
+  port: 8089
+spring:
+  dubbo:
+    application:
+      name: provider
+    registry:
+      address: zooleeper://127.0.0.1:32770
+    protocol:
+      name: dubbo
+      port: 20080
+    scan: com.server.server

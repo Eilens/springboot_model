@@ -1,0 +1,6 @@
+spring:
+  dubbo:
+    application:
+      name: consumer
+      address: zookeeper://127.0.0.1:32770
+    scan: com.client.client
