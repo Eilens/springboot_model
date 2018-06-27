@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+eilendemo.iml
+mybatis/src/main/resources/static/
+mybatis/src/main/resources/templates/
+spd/.gitignore
+spd/pom.xml
+spd/src/

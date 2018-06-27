@@ -27,3 +27,10 @@ spring:
     cache: false
     prefix: classpath:/templates/
     mode: HTML5
+  security:
+    user:
+      name: user
+      password: user
+logging:
+  level:
+    com.start.springbootstart.repository: debug
